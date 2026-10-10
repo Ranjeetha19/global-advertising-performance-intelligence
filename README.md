@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/project-banner.png"
+  <img src="./project-banner.png"
        alt="Global Advertising Performance Intelligence — Marketing Campaign Success Prediction"
        width="100%">
 </p>
